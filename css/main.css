@@ -33,4 +33,10 @@ html {
 #Twitch {
   border: 7px groove #ffffff;
 }
+
+.center {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 /*# sourceMappingURL=main.css.map */
