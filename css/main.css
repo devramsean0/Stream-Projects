@@ -1,1 +1,17 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Dancing+Script&family=Mochiy+Pop+One&family=Zen+Kurenaido&display=swap");
+.title {
+  font-family: 'Comfortaa', cursive;
+}
+
+.subtitle {
+  font-family: 'Dancing Script', cursive;
+}
+
+.description {
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.copy {
+  font-family: 'Zen Kurenaido', sans-serif;
+}
+/*# sourceMappingURL=main.css.map */
