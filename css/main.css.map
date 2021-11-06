@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "partials/_body.scss",
+        "partials/_fonts.scss",
+        "partials/_h1.scss",
+        "partials/_html.scss",
+        "partials/_twitch.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
