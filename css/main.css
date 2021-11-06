@@ -25,4 +25,8 @@ html {
   display: -ms-flexbox;
   display: flex;
 }
+
+#Twitch {
+  border: 7px groove #ffffff;
+}
 /*# sourceMappingURL=main.css.map */
