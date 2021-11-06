@@ -20,6 +20,10 @@ body {
   font-family: 'Zen Kurenaido', sans-serif;
 }
 
+h1 {
+  font-size: 200%;
+}
+
 html {
   display: -webkit-box;
   display: -ms-flexbox;
